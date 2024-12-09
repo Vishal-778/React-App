@@ -1,0 +1,3 @@
+export const LOGO_URL="https://imgs.search.brave.com/Oo5bO3eSYcV-cG1OzS8h51eCxrQ6xYfN1V-mJcWo89E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEzNjU3/MTMvc2NyZWVuc2hv/dHMvNTM4MTIzMi9t/ZWRpYS80NGRkZGM0/Y2Y4OGE1ZTgwODg1/ODExZjQ1MTgwZmEx/Ni5wbmc_cmVzaXpl/PTQwMHgzMDAmdmVy/dGljYWw9Y2VudGVy";
+
+export const CDN_URL="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
